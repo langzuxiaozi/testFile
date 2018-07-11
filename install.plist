@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://10.60.80.70/keyboard/DAppBrowser/ADHoc/1.5.5/86/DappBrowser_ADHoc_1.5.5_86.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://10.60.210.23/ios/dappbrowser_adHoc/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://10.60.210.23/ios/dappbrowser_adHoc/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cmcm.dappbrowser</string>
+				<key>bundle-version</key>
+				<string>3.6.12651.16</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>DappBrowser</string>
+				<key>title</key>
+				<string>DappBrowser</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
